@@ -11,11 +11,13 @@ This plugin adds Kashier payment methods to Tutor LMS's native eCommerce system,
 | Method | Description | Subscription Support |
 |--------|-------------|---------------------|
 | **Card** | Credit/Debit Card payments (Visa, MasterCard, Meeza) | ✅ Yes |
-| **Bank Installment** | Pay in installments via banks | ❌ No |
-| **ValU** | ValU Buy Now Pay Later | ❌ No |
-| **Souhoola** | Souhoola Buy Now Pay Later | ❌ No |
-| **Aman** | Aman payment network | ❌ No |
-| **Mobile Wallet** | Mobile wallet payments (Vodafone Cash, etc.) | ❌ No |
+| **Bank Installment** | Pay in installments via banks | ✅ Yes |
+| **ValU** | ValU Buy Now Pay Later | ✅ Yes |
+| **Souhoola** | Souhoola Buy Now Pay Later | ✅ Yes |
+| **Aman** | Aman payment network | ✅ Yes |
+| **Mobile Wallet** | Mobile wallet payments (Vodafone Cash, etc.) | ✅ Yes |
+
+> **Note:** For non-card methods, subscription renewals are manual (student pays again when subscription expires).
 
 ## Requirements
 

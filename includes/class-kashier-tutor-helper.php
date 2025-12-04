@@ -32,7 +32,7 @@ class Kashier_Tutor_Helper {
 			'method'               => 'bank_installments',
 			'description'          => 'Online Payments via Bank Installment by Kashier',
 			'icon'                 => 'bank-installments.svg',
-			'support_subscription' => false,
+			'support_subscription' => true,
 		),
 		'kashier_valu' => array(
 			'name'                 => 'kashier_valu',
@@ -40,7 +40,7 @@ class Kashier_Tutor_Helper {
 			'method'               => 'valu',
 			'description'          => 'Online Payments via ValU by Kashier',
 			'icon'                 => 'valu.svg',
-			'support_subscription' => false,
+			'support_subscription' => true,
 		),
 		'kashier_souhoola' => array(
 			'name'                 => 'kashier_souhoola',
@@ -48,7 +48,7 @@ class Kashier_Tutor_Helper {
 			'method'               => 'souhoola',
 			'description'          => 'Online Payments via Souhoola by Kashier',
 			'icon'                 => 'souhoola.svg',
-			'support_subscription' => false,
+			'support_subscription' => true,
 		),
 		'kashier_aman' => array(
 			'name'                 => 'kashier_aman',
@@ -56,7 +56,7 @@ class Kashier_Tutor_Helper {
 			'method'               => 'aman',
 			'description'          => 'Online Payments via Aman by Kashier',
 			'icon'                 => 'aman.svg',
-			'support_subscription' => false,
+			'support_subscription' => true,
 		),
 		'kashier_wallet' => array(
 			'name'                 => 'kashier_wallet',
@@ -64,7 +64,7 @@ class Kashier_Tutor_Helper {
 			'method'               => 'wallet',
 			'description'          => 'Online Payments via Mobile Wallet by Kashier',
 			'icon'                 => 'meeza-wallet.svg',
-			'support_subscription' => false,
+			'support_subscription' => true,
 		),
 	);
 
